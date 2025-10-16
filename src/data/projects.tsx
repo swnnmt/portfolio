@@ -416,7 +416,7 @@ const projects: Project[] = [
     id: "bookingTicket",
     category: "Booking Ticket",
     title: "Ticket Ticket",
-    src: "/assets/projects-screenshots/bookingTicket/Customer/ViewEvent.jpg",
+    src: `${BASE_PATH}/bookingTicket/Customer/viewEvent.jpg`,
     screenshots: ["landing.png"],
     skills: {
       frontend: [
