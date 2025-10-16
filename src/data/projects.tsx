@@ -772,7 +772,7 @@ const projects: Project[] = [
     src: "/assets/projects-screenshots/portfolio/landing.png",
     screenshots: ["1.png"],
     live: "http://nareshkhatri.vercel.app",
-    github:"https://github.com/Naresh-Khatri/Portfolio",
+    github:"https://github.com/swnnmt/portfolio",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
