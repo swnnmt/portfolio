@@ -636,7 +636,7 @@ const projects: Project[] = [
         <div>
           <TypographyP className="font-mono ">
           RoomChat is the perfect place to send anonymous messages. RoomChat focuses on keeping everything
-          safe and secure. Whether you're sharing secrets, giving feedback
+          safe and secure. Whether you&apos;re sharing secrets, giving feedback
           or just having fun. Say whatever you want,
           without worry.
           </TypographyP>
@@ -771,7 +771,7 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/portfolio/landing.png",
     screenshots: ["1.png"],
-    live: "http://nareshkhatri.vercel.app",
+    live: "",
     github:"https://github.com/swnnmt/portfolio",
     skills: {
       frontend: [
