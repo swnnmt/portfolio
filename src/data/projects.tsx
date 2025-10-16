@@ -679,6 +679,7 @@ const projects: Project[] = [
         PROJECT_SKILLS.js,
       ],
       backend: [
+        PROJECT_SKILLS.docker,
         PROJECT_SKILLS.spring,
         PROJECT_SKILLS.mysql,
       ],
