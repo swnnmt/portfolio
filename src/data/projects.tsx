@@ -707,7 +707,7 @@ const projects: Project[] = [
             <SlideShow
               images={[
               
-                `${BASE_PATH}/campverse/customer/Home.jpg`,
+                `${BASE_PATH}/campverse/customer/home.jpg`,
                 `${BASE_PATH}/campverse/customer/intro.jpg`,
                 `${BASE_PATH}/campverse/customer/viewCamp.jpg`,
                 `${BASE_PATH}/campverse/customer/detail.jpg`,
